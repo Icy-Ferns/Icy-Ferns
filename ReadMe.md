@@ -1,5 +1,5 @@
 # About Me:
-Business Analytics graduate with a strong interest in data-driven decision-making and business strategy. Passionate about transforming complex datasets into meaningful insights that improve operational efficiency, optimize performance, and deliver measurable business value. Looking for opportunities to learn and develop in the field of data and analytics.<br>
+Data and Analytics professional with a strong foundation in data modelling, business intelligence, and performance reporting. Passionate about transforming complex datasets into meaningful insights that improve operational efficiency, optimize performance, and deliver measurable business value. Looking for opportunities to learn and develop in the field of data and analytics.<br>
 
 
 # Tech Stack:
